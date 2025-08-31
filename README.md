@@ -17,7 +17,7 @@ In this project:
 ## Method
 - **Model:** Siamese U-Net (two-branch encoder, shared weights, subtract at bottleneck, symmetric decoder)
 - **Input:** 13 spectral bands (Sentinel-2)
-- **Tile size:** 128×128 with stride 128
+- **Tile size:** 64×64 with stride 64
 - **Losses:** BCE + Dice, Focal Loss
 - **Metrics:** IoU, F1-score, Precision, Recall
 
