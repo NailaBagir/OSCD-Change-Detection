@@ -1,7 +1,7 @@
 # OSCD Change Detection with Siamese U-Net
 
 This project implements a deep learning pipeline for **bitemporal change detection**
-using the [Onera Satellite Change Detection (OSCD) dataset](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection-dataset).
+using the [Onera Satellite Change Detection (OSCD) dataset](https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection).
 
 ## Dataset
 - Sentinel-2 satellite imagery
